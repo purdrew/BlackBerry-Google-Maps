@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+<features>
+<feature id="phonegap" provider="phonegap.0.9.5.1.jar" required="" version="0.9.5.1">PhoneGap JavaScript Extension</feature>
+</features>
+</library>

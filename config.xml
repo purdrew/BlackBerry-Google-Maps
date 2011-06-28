@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:rim="http://www.blackberry.com/ns/widgets" version="1.0.0.0">
+  <name>GMaps</name>
+  <license href="http://opensource.org/licenses/alphabetical"/>
+  <access subdomains="true" uri="*"/>
+  <access subdomains="true" uri="http://gstatic.com"/>
+  <access subdomains="true" uri="http://google.com"/>
+  <access subdomains="true" uri="http://googleapis.com"/>
+  <content src="index.html"/>
+</widget>
